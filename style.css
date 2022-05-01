@@ -1,0 +1,36 @@
+#title{
+        background-color: dimgrey;
+}
+.registration-heading {
+    background-color: #77d19ce9;
+}
+#navhed{
+     font-family: 'Fredoka One', cursive;
+     font-size: 3rem;
+     line-height:  100px;
+}
+#stu{
+     line-height: 3;
+}
+.navbar{
+     line-height: 2;
+}
+.bg img{
+     background-image: url('pexels-pixabay-268533.jpg');
+}
+.footer-content{
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     flex-direction: column;
+     text-align: center;
+     background-color: #4d7886;
+     line-height: 5;
+ }
+ 
+body{
+     background-color: rgb(175, 223, 223);
+}
+.fa-eye:before {
+     content: "\f06e";
+ }
